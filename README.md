@@ -1,2 +1,3 @@
-# DiceRoll-
-Dice Roll 
+# DiceRoll
+
+- 簡易ダイスロール
